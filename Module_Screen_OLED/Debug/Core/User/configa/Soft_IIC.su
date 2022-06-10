@@ -1,0 +1,5 @@
+Soft_IIC.c:3:6:iic_init	8	static
+Soft_IIC.c:10:6:iic_start	32	static
+Soft_IIC.c:22:6:iic_stop	8	static
+Soft_IIC.c:33:5:iic_wait_for_ack	16	static
+Soft_IIC.c:56:6:iic_write_byte	40	static

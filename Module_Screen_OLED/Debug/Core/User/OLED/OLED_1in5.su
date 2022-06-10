@@ -1,0 +1,9 @@
+OLED_1in5.c:40:13:OLED_Reset	8	static
+OLED_1in5.c:54:6:OLED_WriteReg	16	static
+OLED_1in5.c:66:13:OLED_WriteData	16	static
+OLED_1in5.c:79:13:OLED_WriteData_buf	16	static
+OLED_1in5.c:96:13:OLED_InitReg	8	static
+OLED_1in5.c:154:6:OLED_1in5_Init	8	static
+OLED_1in5.c:175:13:OLED_SetWindow	24	static
+OLED_1in5.c:194:6:OLED_1in5_Clear	16	static
+OLED_1in5.c:206:6:OLED_1in5_Display	24	static
